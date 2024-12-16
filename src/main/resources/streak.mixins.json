@@ -13,7 +13,6 @@
     "ClientPlayerInteractionManagerMixin",
     "LecternScreenMixin",
     "accessor.ClientConnectionAccessor",
-    "ShulkerBoxScreenMixin",
     "PlayerEntityMixin",
     "TrouserSplashTextMixin",
     "TrouserHandshakeC2SMixin"
